@@ -71,7 +71,7 @@
 - docker ps -a
 
 
-# practice with this repository
+# practice with this code
 ```javascript
 
 import express from 'express'
@@ -100,3 +100,7 @@ app.get('/crear', async (_req, res) => {
 app.listen(3000, () => console.log('listening...'))
 
 ``` 
+
+# download image mongo
+``` docker pull mongo ``` 
+# create a container with this repository
